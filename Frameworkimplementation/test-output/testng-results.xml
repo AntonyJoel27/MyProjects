@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-22T18:51:52 IST" name="Default suite" finished-at="2025-06-22T18:51:56 IST" duration-ms="3434">
+    <groups>
+    </groups>
+    <test started-at="2025-06-22T18:51:52 IST" name="Default test" finished-at="2025-06-22T18:51:56 IST" duration-ms="3434">
+      <class name="tests.SampleTest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:tests.SampleTest@2d7275fc]" started-at="2025-06-22T18:51:52 IST" name="setupReport" finished-at="2025-06-22T18:51:52 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SampleTest@2d7275fc]" started-at="2025-06-22T18:51:52 IST" name="setUp" finished-at="2025-06-22T18:51:54 IST" duration-ms="1899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setupDriver(java.lang.reflect.Method)[pri:0, instance:tests.SampleTest@2d7275fc]" started-at="2025-06-22T18:51:54 IST" name="setupDriver" finished-at="2025-06-22T18:51:54 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.SampleTest.navigateToRegisterPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="navigateToRegisterPage()[pri:0, instance:tests.SampleTest@2d7275fc]" started-at="2025-06-22T18:51:54 IST" name="navigateToRegisterPage" finished-at="2025-06-22T18:51:56 IST" duration-ms="1182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRegisterPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.SampleTest@2d7275fc]" started-at="2025-06-22T18:51:56 IST" name="tearDown" finished-at="2025-06-22T18:51:56 IST" duration-ms="166" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateToRegisterPage status=SUCCESS method=SampleTest.navigateToRegisterPage()[pri:0, instance:tests.SampleTest@2d7275fc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SampleTest@2d7275fc]" started-at="2025-06-22T18:51:56 IST" name="tearDown" finished-at="2025-06-22T18:51:56 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:tests.SampleTest@2d7275fc]" started-at="2025-06-22T18:51:56 IST" name="flushReport" finished-at="2025-06-22T18:51:56 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- tests.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

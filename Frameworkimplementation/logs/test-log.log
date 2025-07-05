@@ -1,0 +1,5 @@
+2025-06-22 18:51:52 INFO  Log:16 - ===== Test Suite Started =====
+2025-06-22 18:51:54 INFO  Log:16 - Clicking My Account page
+2025-06-22 18:51:55 INFO  Log:16 - Clicking My Register page
+2025-06-22 18:51:55 INFO  Log:16 - Verifying whether user is on Register Paage
+2025-06-22 18:51:55 INFO  Log:16 - ✅ Login test Failed

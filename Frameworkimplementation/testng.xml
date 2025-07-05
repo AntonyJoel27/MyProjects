@@ -1,0 +1,11 @@
+<suite name="SeleniumFrameworkSuite">
+<listeners>
+    <listener class-name="listeners.ScreenshotListener" />
+</listeners>
+
+    <test name="BasicTest">
+        <classes>
+            <class name="tests.SampleTest" />
+        </classes>
+    </test>
+</suite>
